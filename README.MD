@@ -1,0 +1,1 @@
+# This is a workshop project for the second module on databases.
